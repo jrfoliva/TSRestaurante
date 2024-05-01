@@ -39,3 +39,7 @@ yarn add @types/jsonwebtoken -D
 
 # Instalar dotenv
 yarn add dotenv
+
+# Instalar o multer para lidar com o path das imagens
+yarn add multer
+yarn add @types/multer --dev
